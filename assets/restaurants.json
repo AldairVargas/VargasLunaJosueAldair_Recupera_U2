@@ -1,0 +1,52 @@
+[
+  {
+    "id": "1",
+    "name": "La Trattoria",
+    "cuisine": "Italiana",
+    "address": "Av. Roma 123, Ciudad de México",
+    "schedule": "12:00 PM - 11:00 PM",
+    "description": "Auténtica comida italiana con las mejores pastas y pizzas de la ciudad.",
+    "imageUrl": "https://images.unsplash.com/photo-1559339352-11d035aa65de?ixlib=rb-1.2.1&auto=format&fit=crop&w=800&q=80",
+    "rating": 4.8
+  },
+  {
+    "id": "2",
+    "name": "Tacos El Pastor",
+    "cuisine": "Mexicana",
+    "address": "Calle 5 de Mayo 45, Ciudad de México",
+    "schedule": "10:00 AM - 02:00 AM",
+    "description": "Los mejores tacos al pastor, suadero y campechanos.",
+    "imageUrl": "https://images.unsplash.com/photo-1565299585323-38d6b0865b47?ixlib=rb-1.2.1&auto=format&fit=crop&w=800&q=80",
+    "rating": 4.5
+  },
+  {
+    "id": "3",
+    "name": "Sushi Master",
+    "cuisine": "Japonesa",
+    "address": "Plaza Central 88, Ciudad de México",
+    "schedule": "01:00 PM - 10:00 PM",
+    "description": "Sushi fresco y rollos especiales preparados por expertos.",
+    "imageUrl": "https://images.unsplash.com/photo-1579871494447-9811cf80d66c?ixlib=rb-1.2.1&auto=format&fit=crop&w=800&q=80",
+    "rating": 4.7
+  },
+  {
+    "id": "4",
+    "name": "Burger King's Rival",
+    "cuisine": "Americana",
+    "address": "Blvd. Hamburguesa 99, Ciudad de México",
+    "schedule": "11:00 AM - 11:00 PM",
+    "description": "Hamburguesas gourmet con carne 100% Angus.",
+    "imageUrl": "https://images.unsplash.com/photo-1568901346375-23c9450c58cd?ixlib=rb-1.2.1&auto=format&fit=crop&w=800&q=80",
+    "rating": 4.2
+  },
+  {
+    "id": "5",
+    "name": "Curry House",
+    "cuisine": "India",
+    "address": "Calle de las Especias 10, Ciudad de México",
+    "schedule": "12:00 PM - 10:00 PM",
+    "description": "Sabores intensos y tradicionales de la India.",
+    "imageUrl": "https://images.unsplash.com/photo-1585937421612-70a008356f36?ixlib=rb-1.2.1&auto=format&fit=crop&w=800&q=80",
+    "rating": 4.6
+  }
+]
